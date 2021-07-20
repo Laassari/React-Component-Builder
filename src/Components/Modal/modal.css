@@ -1,0 +1,12 @@
+.modal {
+  position: absolute;
+  inset: 0;
+  background: #353333;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.hidden {
+  display: none;
+}
