@@ -47,6 +47,7 @@
             "type": "ButtonComponent",
             "props": {
               "text": "Click me to open the modal",
+							"//": "This is the attribute that controls whether the modal opens on click or not",
               "opensModal": true
             }
           }
